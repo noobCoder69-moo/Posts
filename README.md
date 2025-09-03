@@ -20,7 +20,7 @@ and ended up with me vibecoding half the frontend in react at 3am while survivin
 - broke my app because i forgot a `/` in `<int:pk>/` (don’t laugh, it happens)  
 - accidentally built a glorified todo app  
 - told myself it’s actually a scalable microservice-ready enterprise-grade posting system™  
-- vibecoded the frontend because why not — half the code is basically vibes.  
+- vibecoded the frontend because why not, half the typescript code is basically vibes.  
 
 ---
 
